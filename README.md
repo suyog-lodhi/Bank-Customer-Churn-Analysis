@@ -288,6 +288,37 @@ Through this project I strengthened:
 
 ---
 
+## 📂 Project Structure
+
+Bank-Customer-Churn-Analysis
+
+
+## 📂 Project Structure
+
+```bash
+Bank-Customer-Churn-Analysis
+│
+├── 01_Data
+│   ├── Raw_data
+│   └── Cleaned_data
+│
+├── 02_Dashboard
+│   └── Bank_Churn_Analysis.pbix
+│
+├── 03_Images
+│   └── Dashboard_Images
+│
+├── 04_SQL_Queries
+│   └── sql_queries.sql
+│
+├── 05_Presentation
+│   └── Bank_Project_Presentation.pptx
+│
+└── README.md
+```
+
+---
+
 
 ## 👨‍💻 Author
 
