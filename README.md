@@ -262,7 +262,7 @@ Overview Dashboard
 
 Churn Analysis
 
-
+![Overview Dashboard](https://github.com/suyog-lodhi/Bank-Customer-Churn-Analysis/raw/7227cb890d48af4aa97f9e0b2cb31123c8f544eb/03_Dashboard%20Images/Screenshot%202026-03-15%20130501.png)
 
 Financial Analysis
 
