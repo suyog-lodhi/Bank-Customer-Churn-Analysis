@@ -257,7 +257,7 @@ This analysis shows how customer behaviour directly affects financial outcomes a
 
 Overview Dashboard  
 
-![image alt]([image_url](https://github.com/suyog-lodhi/Bank-Customer-Churn-Analysis/blob/ec104467eeca08f338a5f730dbeb6b01bda8eda4/03_Dashboard%20Images/Screenshot%202026-03-15%20130448.png))
+![Overview](https://github.com/suyog-lodhi/Bank-Customer-Churn-Analysis/raw/ec104467eeca08f338a5f730dbeb6b01bda8eda4/03_Dashboard%20Images/Screenshot%202026-03-15%20130448.png)
 
 
 Churn Analysis
