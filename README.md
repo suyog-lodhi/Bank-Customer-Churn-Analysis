@@ -330,7 +330,10 @@ Bank-Customer-Churn-Analysis
 
 ## 👨‍💻 Author
 
-**Suyog Lodhi**
+**Suyog Lodhi** <br>
+<br>
+**LinkedIn:** <br>
+[www.linkedin.com/in/suyog-lodhi-94a45825a](https://www.linkedin.com/in/suyog-lodhi-94a45825a)
 
  Transitioning into Data Analytics with skills in:
 
