@@ -263,17 +263,23 @@ Overview Dashboard
 Churn Analysis
 
 
+
 Financial Analysis
 
+![Churn](https://github.com/suyog-lodhi/Bank-Customer-Churn-Analysis/raw/d79054ac4d18ed7133a2d361bf624a6f24992b3e/03_Dashboard%20Images/Screenshot%202026-03-15%20130511.png)
 
 Product Analysis  
+![Financial](https://github.com/suyog-lodhi/Bank-Customer-Churn-Analysis/raw/d79054ac4d18ed7133a2d361bf624a6f24992b3e/03_Dashboard%20Images/Screenshot%202026-03-15%20130520.png)
 
 
 Customer Analysis 
 
+![Product](https://github.com/suyog-lodhi/Bank-Customer-Churn-Analysis/raw/d79054ac4d18ed7133a2d361bf624a6f24992b3e/03_Dashboard%20Images/Screenshot%202026-03-15%20130531.png)
+
 
 Churn Impact Analysis
 
+![Impact](https://github.com/suyog-lodhi/Bank-Customer-Churn-Analysis/raw/d79054ac4d18ed7133a2d361bf624a6f24992b3e/03_Dashboard%20Images/Screenshot%202026-03-15%20130540.png)
 ---
 
 ## 📚 Key Learning Outcomes
