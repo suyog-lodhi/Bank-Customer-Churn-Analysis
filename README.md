@@ -296,10 +296,6 @@ Through this project I strengthened:
 
 ---
 
-## 📂 Project Structure
-
-Bank-Customer-Churn-Analysis
-
 
 ## 📂 Project Structure
 
